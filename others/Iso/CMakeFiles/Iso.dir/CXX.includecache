@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/didle/Documents/workspace/PythonDataScience/Kaggle/AllState/src/others/Iso/main.cpp
+cmath
+-
+string.h
+-
+iostream
+-
+iomanip
+-
+deque
+-
+vector
+-
+map
+-
+algorithm
+-
+fstream
+-
+
